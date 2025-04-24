@@ -2,6 +2,9 @@
 
 A simple Tetris game built with Python and Pygame.
 
+## Screenshot
+![Tetris Game Screenshot](https://raw.githubusercontent.com/hixanny/tetris-game/main/tetris-screenshot.jpg)
+
 ## Requirements
 - Python 3.x
 - Pygame
